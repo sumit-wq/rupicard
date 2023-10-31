@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-Live URL
+## Live URL
 
 https://rupicard-fawn.vercel.app/
 Currently, two official plugins are available:
